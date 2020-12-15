@@ -37,7 +37,7 @@ $(document).ready(function () {
             }
         }
         else {
-            window.location.href = 'https://chiayutsai.github.io/week6/member.html';
+            window.location.href = 'https://chiayutsai.github.io/perfume/member.html';
             $('.js-password').removeClass('is-invalid');
             $('.js-account').val('');
             $('.js-password').val('')
